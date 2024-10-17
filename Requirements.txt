@@ -4,4 +4,4 @@ numpy
 scipy
 plotly
 matplotlib
-Seaborn
+seaborn-0.13.2
